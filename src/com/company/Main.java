@@ -4,6 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 	SolarSystem solarSystem = new SolarSystem();
-    milky
+    solarSystem.sun=1;
+    solarSystem.Moon=1;
+    solarSystem.Planets=9;
     }
 }
