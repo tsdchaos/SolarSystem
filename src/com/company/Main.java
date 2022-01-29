@@ -11,6 +11,6 @@ public class Main {
     Sun Sol=new Sun();
     Sol.Heat="647525756587896kj";
     Sol.radius="654878644km";
-    Sol.temp=1231554c;
+    Sol.temp="1231554c";
     }
 }
