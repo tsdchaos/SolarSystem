@@ -21,5 +21,12 @@ public class Main {
         mercury.color = "green";
         mercury.size = "1235456789 km";
 
+        //Adding moon1 features
+        Moon1 mooner = new Moon1();
+        mooner.color = "white";
+        mooner.radius = "1258789364 km";
+        mooner.lightIntensity = "789421 Lumins";
+
+
     }
 }
