@@ -21,5 +21,11 @@ public class Main {
         mercury.color = "green";
         mercury.size = "1235456789 km";
 
+
+        //Moon2 features
+        Moon2 lumentar = new Moon2();
+        lumentar.color = "Blue";
+        lumentar.radius = "45678 km";
+        lumentar.lightIntensity= "548972 lumens";
     }
 }
