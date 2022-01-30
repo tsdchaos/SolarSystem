@@ -13,8 +13,13 @@ public class Main {
         Sol.radius="654878644km";
         Sol.temp="1231554c";
 
+        Planet2 platypus = new Planet2();
+        platypus.color="pink";
+        platypus.size="4544521347896756345";
+
         Planet1 mercury = new Planet1();
         mercury.color = "green";
         mercury.size = "1235456789 km";
+
     }
 }
